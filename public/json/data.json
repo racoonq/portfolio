@@ -1,0 +1,122 @@
+{
+  "profile": {
+    "firstName": "Rongsheng",
+    "lastName": "Jiang",
+    "title": "Software Engineer",
+    "description": "",
+    "email": {
+      "username": "racoonrq",
+      "domain": "gmail.com"
+    }
+  },
+  "education": [],
+  "experience": [],
+  "projects": [
+    {
+      "title": "Aureoo - Online Service",
+      "website": "https://www.aureoo.com/en/",
+      "date": "Nov 2019 — Mar 2020",
+      "image": "public/img/aureoo.png",
+      "details": [
+        {
+          "title": "FrontEnd",
+          "description": "jQuery, HTML5, CSS3, Twilio Video Chat, Tidio Live Chat"
+        },
+        {
+          "title": "BackEnd",
+          "description": "Django, Django forms, DRF, JWT authentication, Channels, ASGI"
+        }
+      ]
+    },
+    {
+      "title": "Agnoris - SaaS for Restaurants",
+      "website": "https://www.agnoris.com/",
+      "date": "July 2019 — Dec 2019",
+      "image": "public/img/agnoris.svg",
+      "details": [
+        {
+          "title": "FrontEnd",
+          "description": "React.js/Redux, d3.js, axios, GraphQL"
+        },
+        {
+          "title": "BackEnd (other's)",
+          "description": "Django/DRF, Neo4j, JWT authentication"
+        }
+      ]
+    },
+    {
+      "title": "Comisec - Questionnaire/Report Site",
+      "website": "https://service.comisec.fr",
+      "date": "Nov 2018 - Feb 2019",
+      "image": "public/img/comisec.png",
+      "details": [
+        {
+          "title": "MVC",
+          "description": "Django, -models/forms, ReportLab, PostgreSQL, CSRF protection, AWS"
+        }
+      ]
+    },
+    {
+      "title": "Punterspicks - Sports Betting Website",
+      "website": "https://punterspicks.com/",
+      "date": "Oct 2017 — Aug 2018",
+      "image": "public/img/punterspicks.png",
+      "details": [
+        {
+          "title": "FrontEnd",
+          "description": "Angular/NgRx"
+        },
+        {
+          "title": "BackEnd",
+          "description": "Django/DRF, requests, 3rd-party APIs, AWS"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "key": "languages",
+      "values": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Ruby",
+        "C#",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "key": "front-end",
+      "values": [
+        "React",
+        "Gatsby.js",
+        "Angular",
+        "Bootstrap 3,4",
+        "Vue.js"
+      ]
+    },
+    {
+      "key": "back-end",
+      "values": [
+        "Django",
+        "Node.js/Express",
+        "Ruby on Rails"
+      ]
+    }
+  ],
+  "socialProfiles": [
+    {
+      "name": "GitHub",
+      "icon": "fab fa-github",
+      "url": "https://github.com/racoonq"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "fab fa-linkedin",
+      "url": "https://www.linkedin.com/in/racoon/"
+    }
+  ]
+}
